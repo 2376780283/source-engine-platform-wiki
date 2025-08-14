@@ -33,7 +33,7 @@ This project is using waf buildsystem. If you have waf-related questions look ht
 - tf2
 - cstrike
 - dod
-#### 以上均支持gamepadui 及 Steak workshop 创意工坊
+#### 以上均支持gamepadui 及 Steam workshop 创意工坊
 
 ### 感谢开发者
 - 真纪会java ： https://github.com/KonuriMakiJava
