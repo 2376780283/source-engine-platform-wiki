@@ -51,13 +51,13 @@ Centroid masks differ at link time of vertex shader vertexlit_and_unlit_generic_
 
 #### 方法 1：切换低配材质设置
 在启动参数或配置文件中禁用高开销特性：
-```bash
+```
 使用 Android 适配资源
 优先使用 2004 原版资源 社区适配的 HL2 资源包
 替换 Shader 目录
 使用简化版 .glsl Shader 替换高质量版本
 从社区获取可在 GLES 平台运行的 Shader 替代方案
-
+```
 
 ---
 
