@@ -17,8 +17,7 @@
 
 ## 🚫 须知（重要）
 > ⚠️ **以下内容请务必阅读**
-
-- 永不開源 - 处理者： **真纪会Java**
+ 
 - 📱 跨平台仅 **Android** 版发布 Release  
 - 💰 严禁商业用途  
 - 🔄 暂不兼容 **Valve 20th** 更新  
@@ -41,7 +40,8 @@
 - 🕹 Portal  
 - 🕹 TF2  
 - 🕹 Counter-Strike: Source  
-- 🕹 Day of Defeat: Source  
+- 🕹 Day of Defeat: Source
+- # Entropyzero2
 
 </td>
 </tr>
@@ -61,7 +61,7 @@
 
 ## 🛠 项目依赖
 `lua5.1` · `gamepadui` · `Chromium Embedded Framework (CEF)`  
-`waf` · `python3` · `gcc` · `clang11` · `ndkr16b` · `stb_image` · `libpng` · `lunasvg` · `kotlin`
+`waf` · `python3` · `gcc` · `clang17` · `ndkr16b` · `stb_image` · `libpng` · `lunasvg` · `kotlin`
 
 ---
 
