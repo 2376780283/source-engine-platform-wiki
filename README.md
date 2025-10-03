@@ -41,7 +41,7 @@
 - 🕹 TF2  
 - 🕹 Counter-Strike: Source  
 - 🕹 Day of Defeat: Source
-- # Entropyzero2
+- ### Entropyzero2
 
 </td>
 </tr>
