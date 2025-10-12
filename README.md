@@ -47,7 +47,7 @@
 </tr>
 </table>
 
-> ✅ 全部支持 **gamepadui** 和 **Steam Workshop 创意工坊**
+> ✅ 全部支持 **gamepadui** 和 **Steam Workshop 创意工坊** 完全支持png加载
 
 ---
 
