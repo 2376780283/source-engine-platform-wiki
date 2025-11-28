@@ -1,0 +1,1 @@
+启动器完全支持png作为touch按键texture
