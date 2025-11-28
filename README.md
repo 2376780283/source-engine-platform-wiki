@@ -43,13 +43,13 @@
 - 🕹 TF2  
 - 🕹 Counter-Strike: Source  
 - 🕹 Day of Defeat: Source
-- # Entropyzero2
+- ☕ Entropyzero2
 
 </td>
 </tr>
 </table>
 
-> ✅ 全部支持 **gamepadui** 和 **Steam Workshop 创意工坊** 完全支持png加载
+> ✅ 全部支持 **gamepadui** 和 **Steam Workshop 创意工坊(fake/伪)** 完全支持png加载
 
 ---
 
