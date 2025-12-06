@@ -1,0 +1,12 @@
+添加mod管理器
+
+json '''
+
+{
+    "addonTitle": "Title",
+    "addonAuthor": "Author",
+    "addonVersion": "1.0",
+    "addonDescription": "more"
+}
+
+'''
